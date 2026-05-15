@@ -50,13 +50,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
 <img width="1241" height="411" alt="image" src="https://github.com/user-attachments/assets/dd27f85d-3d3e-44a3-8bbd-59b62fecca25" />
 <img width="1238" height="417" alt="image" src="https://github.com/user-attachments/assets/e57bf819-1fcc-4f08-ba90-bd3d079f3813" />
 <img width="1237" height="421" alt="image" src="https://github.com/user-attachments/assets/8490b35a-ed20-4265-9fc9-01d5796c3f54" />
 
-```
 # Results
-```
 Thus,the Pulse code modulation and demodulation is verified succesfully
-```
